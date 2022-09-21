@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Python environment
+env/
+
+# Compiled translation files
+*.mo
