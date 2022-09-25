@@ -1,0 +1,53 @@
+name: Clerk work
+
+on:
+  schedule:  # Daily schedule.
+    - cron: 0 0 * * *
+
+  workflow_dispatch: {}  # For manual switch in actions page.
+
+  push:  # Run on update to py files or this file on the main branch.
+    branches:
+      - main
+    paths:
+      - "**.py"
+      - ".github/workflows/action.yml"
+# End of on.
+
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run update script
+        run: python3 fetch_latest.py
+        env:
+          TRANSIFEX_API_TOKEN: ${{ secrets.TRANSIFEX_API_TOKEN }}
+
+      - name: Commit changes (if any)
+        run: |
+          if [[ $(git status -s) ]]; then
+            git config user.name github-actions
+            git config user.email github-actions[bot]@users.noreply.github.com
+            git add .
+            git commit -m "Auto fetch: $(date +'%Y-%m-%d %R')"
+            git push
+          fi
+    # End of steps.
+  # End of scheduled.
+# End of jobs.
+
+
+# End of file.
