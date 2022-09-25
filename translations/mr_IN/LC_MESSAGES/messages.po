@@ -8,6 +8,7 @@
 # Suhas Mahesh, 2022
 # Pratik Rumde, 2022
 # 
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
@@ -35,7 +36,7 @@ msgid ""
 " fix it as soon as we can."
 msgstr ""
 "क्षमा करा! आपल्याला हवी असलेली माहिती आम्हाला सापडली नाही. आमच्या प्रकल्पात "
-"एखादी चूक घाली असल्याचे आपल्याला वाटले, <a href=\"%(contact_url)s\">तर तसे "
+"एखादी चूक झाली असल्याचे आपल्याला वाटले, <a href=\"%(contact_url)s\">तर तसे "
 "आम्हाला आवर्जून कळवा.</a> आम्ही ती चूक लवकरात लवकर दुरुस्त करण्याचा प्रयत्न "
 "करू."
 
@@ -53,8 +54,9 @@ msgid ""
 msgstr ""
 "क्षमा करा, आमच्या संकेतस्थळावर एक अज्ञातपूर्व दोष घडून आला आहे. भविष्यात "
 "ह्या दोषाची पुनरावृत्ती होऊ नये, यासाठी आम्ही त्याची चौकशी करू. कदाचित् "
-"आपल्याला ह्याचे कारण ठाऊक असल्यास <a href=\"%(contact_url)s\"> कृपया ते "
-"आम्हाला कळवा,</a> आम्ही लवकरात लवकर हा दोष दूर करण्याचा प्रयत्न करू"
+"आपल्याला ह्याचे कारण ठाऊक असल्यास कृपया ते <a "
+"href=\"%(contact_url)s\">आम्हाला कळवा</a>. आम्ही लवकरात लवकर हा दोष दूर "
+"करण्याचा प्रयत्न करू."
 
 #: ambuda/templates/include/footer.html:30
 #: ambuda/templates/include/header-login.html:14
@@ -72,8 +74,8 @@ msgid ""
 "All in a free online library that works on all devices."
 msgstr ""
 "सर्व उपकरणांवर चालू शकणाऱ्या ह्या आंतरजालातील निःशुल्क ग्रंथालयाद्वारे समग्र"
-" संस्कृत साहित्य शब्दशः स्पष्टीकरण आणि अंतर्भावित शब्दकोश यांच्या सह सहजतेने"
-" उपलब्ध होत आहे."
+" संस्कृत साहित्य शब्दशः स्पष्टीकरण आणि अंतर्भावित शब्दकोश यांच्यासह सहजतेने "
+"उपलब्ध होत आहे."
 
 #: ambuda/templates/index.html:40 ambuda/templates/index.html:138
 msgid "Explore the library"
@@ -114,8 +116,8 @@ msgid ""
 "online were delightful and beautiful? What if you could easily find Sanskrit"
 " resources in your native language?"
 msgstr ""
-"जर आपल्याला कोठेही निःशुल्क रूपात संस्कृत साहित्या वाचता आले, जर आंतरजालावर "
-"संस्कृत साहित्य वाचण्याचा अनुभव सुंदर आणि आनंददायी होई शकला, जर आपल्याला "
+"जर आपल्याला कोठेही निःशुल्क रूपात संस्कृत साहित्य वाचता आले, जर आंतरजालावर "
+"संस्कृत साहित्य वाचण्याचा अनुभव सुंदर आणि आनंददायी होऊ शकला, जर आपल्याला "
 "आपल्या मातृभाषेतच संस्कृत ज्ञानभांडार सहज उपलब्ध होऊ शकले तर काय बहार येईल?"
 
 #: ambuda/templates/index.html:85
@@ -126,8 +128,8 @@ msgid ""
 msgstr ""
 "आम्हाला अजून बरीच वाटचाल करायची आहे, शक्य तितक्या अधिक लोकांना आमचे ग्रंथालय"
 " पूर्णपणे उपलब्ध करून देण्याची आमची इच्छा आहे. तूर्त, कुठल्याही इलेक्ट्रॉनिक"
-" साधनाद्वारे आपण आमच्या संकेतस्थळाचा वापर करू शकता. लवकरच आम्ही हे संकेतस्थळ"
-" इंग्रजीखेरीज इतर भाषांमध्येही उपलब्ध करून देऊ."
+" उपकरणाद्वारे आपण आमच्या संकेतस्थळाचा वापर करू शकता. लवकरच आम्ही हे "
+"संकेतस्थळ इंग्रजीखेरीज इतर भाषांमध्येही उपलब्ध करून देऊ."
 
 #: ambuda/templates/index.html:94
 msgid "Intelligent technology"
@@ -140,10 +142,10 @@ msgid ""
 " state-of-the-art technology to make Sanskrit more accessible than ever "
 "before."
 msgstr ""
-"शब्दशः स्पष्टीकरण. शब्दकोशांचा अंतर्भाव. विविध लिप्यांमध्ये लिप्यंतर. आणि "
-"इतरही बरेच काही. संस्कृत साहित्य पूर्वीपेक्षा अधिक सुलभतेने सर्वांना उपलब्ध "
-"करून देण्यासाठी आमचे हे चतुर ग्रंथालय अतिशय अद्ययावत् अशा तंत्रज्ञानाचा वापर"
-" करते."
+"शब्दशः स्पष्टीकरण, शब्दकोशांचा अंतर्भाव, विविध लिप्यांमध्ये लिप्यंतर आणि "
+"इतरही बरीच वैशिष्ट्ये आमच्या ग्रंथालयाच्या ठायी आहेत. संस्कृत साहित्य "
+"पूर्वीपेक्षा अधिक सुलभतेने सर्वांना उपलब्ध करून देण्यासाठी आमचे हे चतुर "
+"ग्रंथालय अतिशय अद्ययावत् अशा तंत्रज्ञानाचा वापर करते."
 
 #: ambuda/templates/index.html:102
 msgid ""
@@ -151,7 +153,7 @@ msgid ""
 "translations, commentaries, full-text search, and deeper hyperlinks across "
 "the entire corpus."
 msgstr ""
-"आमचे काम नुकतेच सुरू झाले आहे. भविष्यासाठी अनेक योजनांची आखणी आम्ही केली "
+"आमचे काम नुकतेच सुरू झाले आहे. भविष्यासाठी अनेक योजनांची आखणी आम्ही केलेली "
 "आहे, उदाहरणार्थ, भाषांतरे, व्याख्या, संपूर्ण ग्रंथातील शब्दांचा शोध घेण्याची"
 " सोय आणि संपूर्ण साहित्यशरीरात खोलवर जाणारे परस्परसंबद्ध दुवे तयार करणे."
 
@@ -167,9 +169,9 @@ msgid ""
 " href=\"%(support_url)s\">help Ambuda grow</a>."
 msgstr ""
 "अंबुद हा प्रकल्प पूर्णपणे स्वयंसेवकांद्वारे चालवला जातो आणि शक्य त्या रूपात "
-"आपले साहाय्य ह्या प्रकल्पाला लाभू शकले तर आम्हाला अतिशय आनंद होईल. आपण "
-"अंबुदच्या वाढीसाठी कसे साहाय्य करू शकता <a href=\"%(support_url)s\">हे जाणून"
-" घ्या</a>."
+"आपले साहाय्य ह्या प्रकल्पाला लाभू शकले तर आम्हाला अतिशय आनंद होईल. अंबुदच्या"
+" वाढीसाठी आपण कसे साहाय्य करू शकता <a href=\"%(support_url)s\">हे जाणून "
+"घ्या</a>."
 
 #: ambuda/templates/index.html:120
 #, python-format
@@ -245,10 +247,10 @@ msgid ""
 "Formal work on Ambuda began on 1 June 2022, but our team of volunteers has "
 "been dreaming of such a project for years."
 msgstr ""
-"संस्कृत साहित्य परंपरा सर्वांना मुळापासून उपलब्ध करून देणे हे अंबुदचे ध्येय "
-"आहे. ह्या प्रकल्पाचे काम १ जून २०२२ रोजी औपचारिक रीतीने सुरू झाले असले तरीही"
-" अशा प्रकल्पाची कल्पना आमच्या चमूतील स्वयंसेवकांच्या मनात अनेक वर्षांपासून "
-"रुळत होती. "
+"संस्कृत साहित्य परंपरा सर्वांना सर्वार्थाने उपलब्ध करून देणे हे अंबुदचे "
+"ध्येय आहे. ह्या प्रकल्पाचे काम 1 जून 2022 रोजी औपचारिक रीतीने सुरू झाले असले"
+" तरीही अशा प्रकल्पाची कल्पना आमच्या चमूतील स्वयंसेवकांच्या मनात अनेक "
+"वर्षांपासून घोळत होती. "
 
 #: ambuda/templates/about/index.html:28
 #, python-format
@@ -259,7 +261,7 @@ msgid ""
 "backgrounds. For all other inquiries, please <a "
 "href=\"%(contact_url)s\">reach out to us directly</a>."
 msgstr ""
-"आमच्या अंबुद तसेच इतर संस्कृतशी संबंधित प्रकल्पांविषयीच्या ताज्या बातम्या "
+"आमच्या अंबुद तसेच संस्कृतशी संबंधित इतर प्रकल्पांविषयीच्या ताज्या बातम्या "
 "आम्ही <a href=\"%(mailing_url)s\">विद्युत्पत्र यादीद्वारे</a> नियमितपणे कळवत"
 " असतो. <a href=\"%(code_url)s\">आमचे सर्व ग्रंथपाठ</a> GitHub वर उपलब्ध आहेत"
 " आणि त्यांवर काम करण्यासाठी सर्व प्रकारची पार्श्वभूमी असणाऱ्या "
@@ -306,7 +308,7 @@ msgstr "गोपनीयतेचे धोरण"
 #: ambuda/templates/texts/text-resources.html:5
 #: ambuda/templates/texts/text.html:16
 msgid "| Ambuda"
-msgstr "अंबुद"
+msgstr "| अंबुद"
 
 #: ambuda/templates/about/terms.html:4 ambuda/templates/about/terms.html:10
 #: ambuda/templates/include/footer.html:49
@@ -334,10 +336,10 @@ msgid ""
 "link to reset your password. If it doesn’t appear within a few minutes, "
 "check your spam folder."
 msgstr ""
-"आम्ही आपल्याला <kbd>%(email)s</kbd> या पत्त्यावर विद्युत्पत्र पाठवले आहे. "
-"आपली विद्युत्पत्रपेटी तपासा, तिच्यात परवलीचा शब्द नव्याने ठरवण्यासाठी "
+"आम्ही आपल्याला <kbd>%(email)s</kbd> या पत्त्यावर एक विद्युत्पत्र पाठवले आहे."
+" आपली विद्युत्पत्रपेटी तपासा, तिच्यात परवलीचा शब्द नव्याने ठरवण्यासाठी "
 "पाठवलेला दुवा आपल्याला सापडेल. पुढल्या काही मिनिटांमध्ये तो तिथे दिसला नाही,"
-" तर आपलं अनावश्यक पत्रांचे बाड तपासून पहा."
+" तर आपले अनावश्यक पत्रांचे बाड तपासून पहा."
 
 #: ambuda/templates/auth/reset-password.html:6
 #: ambuda/templates/auth/reset-password.html:15
@@ -400,15 +402,15 @@ msgstr "संस्कृत-इंग्रजी"
 
 #: ambuda/templates/include/dict-options.html:2
 msgid "Apte (1890)"
-msgstr "आपटे (१८९०)"
+msgstr "आपटे (इ. स. 1890)"
 
 #: ambuda/templates/include/dict-options.html:3
 msgid "Monier-Williams (1899)"
-msgstr "मोनियर्-विलियम्स् (१८९९)"
+msgstr "मोनियर्-विलियम्स् (इ. स. 1899)"
 
 #: ambuda/templates/include/dict-options.html:4
 msgid "Shabdasagara (1900)"
-msgstr "शब्दसागर (१९००)"
+msgstr "शब्दसागर (इ. स. 1900)"
 
 #: ambuda/templates/include/dict-options.html:6
 msgid "Sanskrit-Sanskrit"
@@ -416,11 +418,11 @@ msgstr "संस्कृत-संस्कृत"
 
 #: ambuda/templates/include/dict-options.html:7
 msgid "Vācaspatyam (1873)"
-msgstr "वाचस्पत्यम् (१८७३)"
+msgstr "वाचस्पत्यम् (इ. स. 1873)"
 
 #: ambuda/templates/include/dict-options.html:8
 msgid "Śabdakalpadrumaḥ (1886)"
-msgstr "शब्दकल्पद्रुमः (१८८६)"
+msgstr "शब्दकल्पद्रुमः (इ. स. 1886)"
 
 #: ambuda/templates/include/dict-options.html:10
 msgid "Sanskrit-Kannada"
@@ -436,16 +438,16 @@ msgid ""
 "Ambuda is run entirely by volunteers for the public benefit. Learn more "
 "about how you can <a href=\"%(support)s\"> help Ambuda grow</a>."
 msgstr ""
-"अंबुद हा प्रकल्प पूर्णपणे स्वयंसेवकांद्वारे लोककल्याणास्तव चालवला जातो. "
-"अंबुद प्रकल्पाच्या वाढीसाठी तुम्ही कसे <a href=\"%(support)s\">साहाय्य करू "
-"शकता हे जाणून घ्या</a>."
+"अंबुद हा प्रकल्प पूर्णपणे स्वयंसेवकांद्वारे लोककल्याणास्तव चालवला जातो. आपण "
+"अंबुद प्रकल्पाच्या <a href=\"%(support)s\">वाढीसाठी कसे साहाय्य करू शकता</a>"
+" हे जाणून घ्या."
 
 #: ambuda/templates/include/footer.html:32
 #: ambuda/templates/include/header-login.html:20
 #: ambuda/templates/include/header.html:19
 #: ambuda/templates/texts/index.html:20 ambuda/templates/texts/index.html:30
 msgid "Texts"
-msgstr "मजकूर"
+msgstr "ग्रंथ"
 
 #: ambuda/templates/include/footer.html:34
 #: ambuda/templates/include/header-login.html:22
@@ -538,7 +540,7 @@ msgstr "परिचय"
 #: ambuda/templates/macros/proofing-talk.html:10
 #, python-format
 msgid "Created by <a href=\"%(author_url)s\">%(username)s</a>"
-msgstr "<a href=\"%(author_url)s\">%(username)s</a> यांनी तयार केले"
+msgstr "<a href=\"%(author_url)s\">%(username)s</a> ह्यांनी तयार केले"
 
 #: ambuda/templates/macros/proofing.html:35
 msgid "Help"
@@ -692,8 +694,8 @@ msgid ""
 msgstr ""
 "लिप्यंतरित प्रकल्पाची नव्यात नवी आवृत्ती उतरवून घेण्यासाठी आपण हे दुवे वापरू"
 " शकता. आपल्या संगणकावर ह्या संचिका जतन करण्यासाठी उजवी टिचकी मारून <kbd>Save"
-" As &hellip;</kbd> यावर टिचकी मारा किंवा ह्या सारख्या दुसरा आपल्या संगणकावर "
-"उपलब्ध असलेला पर्याय वापरा."
+" As &hellip;</kbd> ह्यावर टिचकी मारा किंवा ह्यासारख्या दुसरा आपल्या संगणकावर"
+" उपलब्ध असलेला पर्याय निवडा."
 
 #: ambuda/templates/proofing/projects/download.html:24
 msgid "Download as plain text"
@@ -721,7 +723,7 @@ msgstr "विवरण"
 
 #: ambuda/templates/proofing/projects/summary.html:29
 msgid "Pages"
-msgstr "पाने"
+msgstr "पृष्ठे"
 
 #: ambuda/templates/proofing/projects/summary.html:43
 msgctxt "project"
@@ -833,11 +835,11 @@ msgstr "अधिक मोठे"
 
 #: ambuda/templates/texts/section.html:68
 msgid "Script:"
-msgstr "लिपी"
+msgstr "लिपी -"
 
 #: ambuda/templates/texts/section.html:75
 msgid "Parsed View:"
-msgstr "पदच्छेद"
+msgstr "पदच्छेद -"
 
 #: ambuda/templates/texts/section.html:77
 msgid "In place"
@@ -893,15 +895,15 @@ msgstr "मूळ कृतीचा कर्ता, उदा. कालिद
 
 #: ambuda/views/proofing/project.py:68
 msgid "The person or organization that created this edition of the text."
-msgstr "ग्रंथाची ही आवृत्ती आवृत्ती तयार करणारी व्यक्ती अथवा संस्था"
+msgstr "ग्रंथाची ही आवृत्ती तयार करणारी व्यक्ती अथवा संस्था"
 
 #: ambuda/views/proofing/project.py:76
 msgid "The original publisher of this book, e.g. Nirnayasagar."
-msgstr "या पुस्तकाचे मूळ प्रकाशन, उदा. निर्णयसागर"
+msgstr "ह्या पुस्तकाचे मूळ प्रकाशन, उदा. निर्णयसागर"
 
 #: ambuda/views/proofing/project.py:84
 msgid "The year in which this specific edition was published."
-msgstr "या विशिष्ट आवृत्तीच्या प्रकाशनाचे वर्ष"
+msgstr "ह्या विशिष्ट आवृत्तीच्या प्रकाशनाचे वर्ष"
 
 #: ambuda/views/proofing/project.py:93
 msgid "Query"

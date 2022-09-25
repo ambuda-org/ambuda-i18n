@@ -5,9 +5,9 @@
 # 
 # Translators:
 # Murali Patteboyina, 2022
-# srinivasa kasyap munukutla, 2022
 # Kishore Chitrapu, 2022
 # 
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
@@ -62,19 +62,19 @@ msgstr "అంబుద"
 
 #: ambuda/templates/index.html:31
 msgid "A breakthrough Sanskrit library"
-msgstr "ఆధునిక సంస్కృత గ్రంథాలయము"
+msgstr "ఒక ఆధునిక సంస్కృత గ్రంథాలయము"
 
 #: ambuda/templates/index.html:32
 msgid ""
 "Sanskrit literature with word-by-word analysis and integrated dictionaries. "
 "All in a free online library that works on all devices."
 msgstr ""
-"ప్రతిపదార్థ వ్యాఖ్యానాలతో, అనేక నిఘంటువులతో జోడించి సంసృత వాఙ్మయం అన్ని "
-"యంత్రాలపై మీకు ఉచితముగా లభ్యం."
+"ప్రతిపదార్థ వ్యాఖ్యానంతో సంస్కృత వాఙ్మయం. అనేక నిఘంటువులతో సమగ్రపరచి అన్ని "
+"పరికరాలపై ఉచితంగా లభ్యం."
 
 #: ambuda/templates/index.html:40 ambuda/templates/index.html:138
 msgid "Explore the library"
-msgstr "గ్రంథాలయాన్ని ప్రవేశించి పరచయం చేసుకోండి"
+msgstr "గ్రంథాలయానికి సుస్వాగతం"
 
 #: ambuda/templates/index.html:60
 msgid "Building the world's largest Sanskrit library"
@@ -87,8 +87,8 @@ msgid ""
 "there isn't an easy way to explore what Sanskrit has to offer."
 msgstr ""
 "సంస్కృత గ్రంథాలు అందరికీ అందుబాటులో లేవు. కొన్ని అంతర్జాలంలో, మరి కొన్ని "
-"పుస్తకాలలో, మరెన్నో రాతపత్రాలలో చెల్లా చెదురై ఉన్నాయి. ప్రయోజనం వేర్వేరు "
-"స్థాయిలలో ఉడటం, చెరువలో లేకపోవటం వల్ల  సంస్కృతాధ్యన మార్గం కష్టతరంగా ఉంది."
+"పుస్తకాలలో, మరెన్నో రాతపత్రాలలో చెల్లాచెదురుగా పడి ఉన్నాయి. వాటి స్థితిగతులు"
+" వేర్వేరు రకాలుగా ఉండటం  సంస్కృతాధ్యయనపరులకు నిరుత్సాహకరంగా ఉంది."
 
 #: ambuda/templates/index.html:68
 msgid ""
@@ -96,13 +96,13 @@ msgid ""
 "literature. Our library is small now, but it's growing rapidly. Soon, it "
 "will be the largest Sanskrit library in the world."
 msgstr ""
-"అందుకే మేము అంబుద అనే పరిపూర్ణ గ్రంథాలయం నిర్మిస్తున్నాము. ఇప్పుడు మా "
-"గ్రంథాలయం ఆదిలో స్వల్పంగా ఉన్నా, అతివేగంగా పెరుగుతూ త్వరలోనే మహత్తరమైన సంసృత"
-" గ్రంథాలయంగా విస్తరించబోతోంది."
+"అందుకే మేము అంబుద అనే పరిపూర్ణ గ్రంథాలయం నిర్మాణానికి పూనుకున్నాము. ఇప్పుడు "
+"మా గ్రంథాలయం చిన్నదిగా మొదలైనా, అతివేగంగా పెరుగి త్వరలోనే ఒక మహత్తరమైన "
+"సంస్కృత గ్రంథాలయంగా విస్తరించబోతోంది."
 
 #: ambuda/templates/index.html:77
 msgid "Open access for all"
-msgstr "అందరికీ అందుబాటు"
+msgstr "అందరికీ అందుబాటులో"
 
 #: ambuda/templates/index.html:79
 msgid ""
@@ -110,8 +110,8 @@ msgid ""
 "online were delightful and beautiful? What if you could easily find Sanskrit"
 " resources in your native language?"
 msgstr ""
-"సంసృతం గ్రంథాలు సర్వత్ర ఉచితంగా లభ్యం. సంసృతం శోభమయంగా, మనోహరంగా, అనువుగా మీ"
-" మాతృభాషలో చదవటానికి సిద్ధంగా ఉంది."
+"సంస్కృత గ్రంథాలు సర్వత్ర ఉచితం. ఇక్కడ సంస్కృత శోభమయంగా, మనోహరంగా, అనువుగా మీ"
+" మాతృభాషలో చదవచ్చు."
 
 #: ambuda/templates/index.html:85
 msgid ""
@@ -119,9 +119,9 @@ msgid ""
 "accessible to as many people as we can. For now, you can use our website on "
 "any device. Soon, we'll support other languages besides English."
 msgstr ""
-"మేము అంబుద అనే మహత్తర గ్రంథాలయ నిర్మాణ యజ్ఞం తలపెట్టి సాధ్యమైనంత "
-"ప్రపంచవ్యాప్త పాఠకులకు అందుబాటులోకి తీసుకువస్తున్నాము. ఇప్పుడు అంబుద అన్ని "
-"పరికరాలపైనా పనిచేస్తుంది. త్వరలో అంగ్లంతో పాటు మరేన్నో భాషలలో అంబుదని "
+"మేము అంబుద అనే మహత్తర గ్రంథాలయ నిర్మాణ యజ్ఞం తలపెట్టి ప్రపంచవ్యాప్తంగా "
+"పాఠకులకు అందుబాటులోకి తీసుకువస్తున్నాము. ఇప్పుడు అంబుద అన్ని సాంకేతిక "
+"పరికరాలపైనా పనిచేస్తోంది. త్వరలో అంగ్లంతో పాటు మరేన్నో భాషలలో అంబుదని "
 "చదవవచ్చు."
 
 #: ambuda/templates/index.html:94
@@ -159,9 +159,10 @@ msgid ""
 "support in whatever form you can provide it. Learn more about how you can <a"
 " href=\"%(support_url)s\">help Ambuda grow</a>."
 msgstr ""
-"అంబుదని ధనాపేక్షలేకుండా స్వచ్ఛంద సేవకులే పరపూర్ణంగా నిర్వహిస్తున్నారు. "
-"యథాశక్తిగా మీరు ఇచ్చే సహకారం మాకు అత్యంతానన్దదాయకం. మీరు కూడా ఆసక్తితో అంబుద"
-" అభివృద్ధికి సాయపడటానికి <a href=\"%(support_url)s\">ఈ లంకెను తట్టండి</a>. "
+"అంబుదని ధనాపేక్షలేకుండా కార్యకర్తలే పరపూర్ణంగా నిర్వహిస్తున్నారు. యథాశక్తిగా"
+" మీరు ఇచ్చే సహకారం మాకు అత్యంతానన్దదాయకం. మీరు కూడా ఆసక్తితో అంబుద "
+"అభివృద్ధికి సాయపడటానికి <a href=\"%(support_url)s\">ఈ link click చేయండి</a>."
+" "
 
 #: ambuda/templates/index.html:120
 #, python-format
@@ -234,10 +235,9 @@ msgid ""
 "Formal work on Ambuda began on 1 June 2022, but our team of volunteers has "
 "been dreaming of such a project for years."
 msgstr ""
-"సంస్కృత వాఙ్మయాన్ని పరిపూర్ణంగా ప్రజల అందుబాటులోకి తీసుకురావటం మా దృఢ "
-"సంకల్పం. ఏన్నో సంవత్సరాలుగా ఈ సంకల్పంపైన కార్యాచరణ కోసం ఎదురుచూసాము. "
-"శుభకృత్సంవత్సరం జ్యేష్ఠ-శుక్ల-ద్వితీయనాడు అంబుదపై కార్యాచరణ ఆరంభించి స్వాగతం"
-" పలికాము. "
+"సంస్కృత వాఙ్మయాన్ని పరిపూర్ణంగా ప్రజల అందుబాటులోకి తీసుకురావటం మా లక్ష్యము. "
+"ఏన్నో సంవత్సరాలుగా ఈ కలని మా గుండెల్లో పెంచుకున్నాము. శుభకృత్సంవత్సరం "
+"జ్యేష్ఠ-శుక్ల-ద్వితీయనాడు ఈ సంకల్పాన్ని కార్యాచరణలో పెట్టాము. "
 
 #: ambuda/templates/about/index.html:28
 #, python-format
@@ -258,7 +258,7 @@ msgstr ""
 #: ambuda/templates/about/mission.html:16
 #: ambuda/templates/include/footer.html:44
 msgid "Mission"
-msgstr "ధ్యేయం"
+msgstr "మా లక్ష్యము"
 
 #: ambuda/templates/about/index.html:38 ambuda/templates/about/values.html:5
 #: ambuda/templates/about/values.html:10
@@ -276,7 +276,7 @@ msgstr "కార్యయోజన"
 #: ambuda/templates/about/people.html:20
 #: ambuda/templates/include/footer.html:47
 msgid "People"
-msgstr "ప్రజలు"
+msgstr "కార్యకర్తలు"
 
 #: ambuda/templates/about/index.html:42 ambuda/templates/about/our-name.html:5
 #: ambuda/templates/about/our-name.html:13
@@ -386,27 +386,27 @@ msgstr "సంస్కృతం - English"
 
 #: ambuda/templates/include/dict-options.html:2
 msgid "Apte (1890)"
-msgstr "ఆప్టె (సా.శ. 1890)"
+msgstr "ఆప్టే (క్రీ.శ. 1890)"
 
 #: ambuda/templates/include/dict-options.html:3
 msgid "Monier-Williams (1899)"
-msgstr "Monier-Williams (సా.శ. 1899)"
+msgstr "Monier-Williams (క్రీ.శ. 1899)"
 
 #: ambuda/templates/include/dict-options.html:4
 msgid "Shabdasagara (1900)"
-msgstr "శబ్దసాగర(సా.శ. ౧౯౦౦)"
+msgstr "శబ్దసాగర(క్రీ.శ. 1900)"
 
 #: ambuda/templates/include/dict-options.html:6
 msgid "Sanskrit-Sanskrit"
-msgstr "సంసృతం-సంసృతం"
+msgstr "సంస్కృతం-సంస్కృతం"
 
 #: ambuda/templates/include/dict-options.html:7
 msgid "Vācaspatyam (1873)"
-msgstr "వాచస్పత్యం(సా.శ. ౧౮౭౩)"
+msgstr "వాచస్పత్యం(క్రీ.శ.  1873)"
 
 #: ambuda/templates/include/dict-options.html:8
 msgid "Śabdakalpadrumaḥ (1886)"
-msgstr "శబ్దకల్పద్రుమ(సా.శ. ౧౮౮౬)"
+msgstr "శబ్దకల్పద్రుమ(క్రీ.శ. 1886)"
 
 #: ambuda/templates/include/dict-options.html:10
 msgid "Sanskrit-Kannada"
@@ -422,8 +422,8 @@ msgid ""
 "Ambuda is run entirely by volunteers for the public benefit. Learn more "
 "about how you can <a href=\"%(support)s\"> help Ambuda grow</a>."
 msgstr ""
-"స్వచ్ఛంద సేవకులే ప్రజాసంక్షేమం కోసం అంబుదను నడిపిస్తున్నారు. మీరు కూడా "
-"ఆసక్తితో <a href=\"%(support)s\">అంబుద అభివృద్ధికి తోడ్పదండి</a>. "
+"ప్రజాసంక్షేమం కోసం స్వచ్ఛంద సేవకులు అంబుదను నడిపిస్తున్నారు. మీరు కూడా "
+"యథాసక్తితో <a href=\"%(support)s\">అంబుద అభివృద్ధికి తోడ్పడండి</a>. "
 
 #: ambuda/templates/include/footer.html:32
 #: ambuda/templates/include/header-login.html:20
@@ -440,7 +440,7 @@ msgstr "పాఠశోధనం"
 
 #: ambuda/templates/include/footer.html:36
 msgid "Donate"
-msgstr "దానం"
+msgstr "విరాళములు"
 
 #: ambuda/templates/include/footer.html:55
 msgid "Community"

@@ -8,6 +8,7 @@
 # Andrew Ollett, 2022
 # Suhas Mahesh, 2022
 # 
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
@@ -496,7 +497,7 @@ msgstr "తెలుగు"
 
 #: ambuda/templates/macros/components.html:2
 msgid "{title} | Ambuda"
-msgstr "{शीर्षकम्} | अम्बुदः"
+msgstr "{title} | अम्बुदः"
 
 #: ambuda/templates/macros/forms.html:35
 #, python-format
