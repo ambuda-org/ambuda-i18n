@@ -110,8 +110,8 @@ msgid ""
 "online were delightful and beautiful? What if you could easily find Sanskrit"
 " resources in your native language?"
 msgstr ""
-"సంస్కృత గ్రంథాలు సర్వత్ర ఉచితం. ఇక్కడ సంస్కృత శోభమయంగా, మనోహరంగా, అనువుగా మీ"
-" మాతృభాషలో చదవచ్చు."
+"సంస్కృత గ్రంథాలు సర్వత్ర ఉచితం. ఇక్కడ సంస్కృతం శోభమయంగా, మనోహరంగా, అనువుగా "
+"మీ మాతృభాషలో చదవచ్చు."
 
 #: ambuda/templates/index.html:85
 msgid ""
