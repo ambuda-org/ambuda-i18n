@@ -14,7 +14,7 @@ from transifex.api import transifex_api as api
 
 
 dotenv.load_dotenv()
-ALLOWED_LANGUAGES = ['sa', 'mr_IN', 'te_IN']
+ALLOWED_LANGUAGES = ['sa', 'mr_IN', 'te_IN', 'hi_IN']
 TRANSIFEX_API_TOKEN = os.environ['TRANSIFEX_API_TOKEN']
 
 api.setup(auth=TRANSIFEX_API_TOKEN)
